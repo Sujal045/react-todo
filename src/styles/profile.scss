@@ -1,0 +1,15 @@
+.profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  h1 {
+    color: black;
+    font-size: 3rem;
+    padding: 1rem 0px;
+  }
+  p {
+    color: rgba(13, 62, 90, 0.361);
+  }
+}
